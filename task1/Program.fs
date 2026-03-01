@@ -14,15 +14,12 @@ let InputUserString n =
 let main _ =
     printf "Введите размер списка: "
     let size = int(Console.ReadLine())
-    if size = 0 then
-        printfn "Вы ввели пустой список!"
-    elif size < 0 then
-        failwith "Размер списка не может быть отрицательным!"
-    else
-        printfn "Заполните список"
-        let ls = InputUserString size
-        printf "Введите символ, который добавить к строкам: "
-        let symb = Console.ReadLine()
-        let new_ls = List.map (fun s -> s + symb) ls
-        printfn "Новый список: %A" new_ls
+    if size <= 0 then
+        failwith "ОШИБКА: неккоректный размер списка"
+    printfn "Заполните список"
+    let ls = InputUserString size
+    printf "Введите символ, который добавить к строкам\n(вводится 1 символ, все остальные символы после первого читаться не будут)\n: "
+    let symb = Console.ReadLine()[0]
+    let new_ls = List.map (fun s -> s + string symb) ls
+    printfn "Новый список: %A" new_ls
     0
