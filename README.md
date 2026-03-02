@@ -14,11 +14,11 @@
 
 ### Тестирование
 
-![[Снимок экрана 2026-03-02 в 14.26.41.png|697]]
+![Снимок экрана 2026-03-02 в 14.26.41.png|697](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.26.41.png)
 
-![[Снимок экрана 2026-03-02 в 14.28.15.png]]
+![Снимок экрана 2026-03-02 в 14.28.15.png](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.28.15.png)
 
-![[Снимок экрана 2026-03-02 в 14.35.29.png]]
+![Снимок экрана 2026-03-02 в 14.35.29.png](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.35.29.png)
 
 
 # Задание 2
@@ -35,8 +35,8 @@
 
 ### Тестирование
 
-![[Снимок экрана 2026-03-02 в 14.46.13.png|488]]
+![Снимок экрана 2026-03-02 в 14.46.13.png](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.46.13.png)
 
-![[Снимок экрана 2026-03-02 в 14.47.42.png]]
+![Снимок экрана 2026-03-02 в 14.47.42.png](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.47.42.png)
 
-![[Снимок экрана 2026-03-02 в 14.48.20.png]]
+![Снимок экрана 2026-03-02 в 14.48.20.png](https://github.com/EvMI1/ProgLang_Lab2/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-02%20%D0%B2%2014.48.20.png)
