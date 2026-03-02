@@ -20,7 +20,12 @@ let main _ =
     let ls = InputUserString size
     printf "Введите символ, который добавить к строкам\n
     (вводится 1 символ, все остальные символы после первого читаться не будут)\n: "
-    let symb = Console.ReadLine()[0]
-    let new_ls = List.map (fun s -> s + string symb) ls
+    let input = Console.ReadLine()
+    let symb = 
+        if String.IsNullOrEmpty(input) then
+            "" 
+        else
+            string(input[0])
+    let new_ls = List.map (fun s -> s + symb) ls
     printfn "Новый список: %A" new_ls
     0
